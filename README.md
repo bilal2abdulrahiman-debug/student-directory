@@ -6,8 +6,8 @@ A React app showcasing a student directory with reusable components, nested list
 - **StudentCard:** Reusable component displaying student information with nested skill lists and status badges.
 
 ## Links
-- **GitHub Repository:** https://github.com/FathimaHibaa/student-directory.git
-- **Live Website:** https://student-directory-one.vercel.app/
+- **GitHub Repository:** https://github.com/bilal2abdulrahiman-debug/student-directory
+- **Live Website:** https://student-portal-bilal.netlify.app/
 
 ## Run Locally
 1. Clone the repository  
